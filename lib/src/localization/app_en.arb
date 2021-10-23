@@ -1,0 +1,6 @@
+{
+  "appTitle": "test_apple_auth",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
